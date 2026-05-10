@@ -5,15 +5,6 @@ This application helps users practice technical interviews through role-based qu
 
 ---
 
-# 🌐 Live Demo
-
-Add your deployed link here after deployment:
-
-```bash
-https://your-project-name.vercel.app
-```
-
----
 
 # 📸 Screenshots
 
